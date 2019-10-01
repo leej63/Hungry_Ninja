@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\bin\Debug\netcoreapp2.2\Hungry Ninja.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\bin\Debug\netcoreapp2.2\Hungry Ninja.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\bin\Debug\netcoreapp2.2\Hungry Ninja.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\bin\Debug\netcoreapp2.2\Hungry Ninja.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\bin\Debug\netcoreapp2.2\Hungry Ninja.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\OOP with C#\Hungry Ninja\obj\Debug\netcoreapp2.2\Hungry Ninja.pdb
